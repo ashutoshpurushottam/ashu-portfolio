@@ -308,10 +308,10 @@ body {
   perspective: 150rem;
   -moz-perspective: 150rem;
   position: relative;
-  height: 60rem;
+  height: 62rem;
 }
 .card__side {
-  height: 60rem;
+  height: 62rem;
   transition: all 0.8s ease;
   position: absolute;
   top: 0;

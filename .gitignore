@@ -1,0 +1,39 @@
+# Ignore compiled CSS and JS files
+*.css
+*.js
+
+# Ignore build artifacts
+*.html.swp
+*.css.swp
+*.js.swp
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+*.DS_Store
+Thumbs.db
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore bower_components directory
+bower_components/
+
+# Ignore compiled LESS files
+*.less
+
+# Ignore compiled SASS files
+*.scss
+
+# Ignore compiled TypeScript files
+*.tsbuildinfo
+
+# Ignore Visual Studio Code files
+.vscode/
+.history
+
+# Ignore macOS files
+.DS_Store
